@@ -1,0 +1,14 @@
+Task 5: Wireshark Packet Capture Summary
+
+Date: 30 June 2025
+File: traffic.pcap (https://shorturl.at/8asCk)
+
+Protocols Identified:
+1. DNS – Used to resolve domain names like google.com
+2. ICMP – Seen during ping command to google.com
+3. TCP – Observed during HTTP communication
+4. HTTP – Captured while accessing google.com
+
+Tools: Wireshark
+Summary:
+Captured a live session of 2 minutes. Traffic shows successful DNS resolution, HTTP browsing, and ping testing. Protocol filtering helped to isolate the traffic.
